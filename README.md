@@ -7,3 +7,8 @@ Opdracht 1:
 - mcrypt_encrypt()
 - openssl_encrypt
 - openssl_public_encrypt
+
+
+Opdracht 2:
+- 245 bytes en 2048 bits
+
