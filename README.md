@@ -12,3 +12,5 @@ Opdracht 1:
 Opdracht 2:
 - 245 bytes en 2048 bits
 
+Opdracht 3:
+- Ik gebruik geen IntelliJ
