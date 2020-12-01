@@ -14,3 +14,4 @@ Opdracht 2:
 
 Opdracht 3:
 - Ik gebruik geen IntelliJ
+- Wel gelezen
